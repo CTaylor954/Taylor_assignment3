@@ -1,0 +1,10 @@
+package taylor_problem1;
+
+public class Quiz extends CAI1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

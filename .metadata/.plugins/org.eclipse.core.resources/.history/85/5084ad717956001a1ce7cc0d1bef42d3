@@ -1,0 +1,14 @@
+package taylor_problem1;
+
+import java.security.SecureRandom;
+
+
+public class CAI1 {
+
+	public static void main(String[] args) 
+		{
+		
+
+		}
+
+}
